@@ -1,6 +1,6 @@
 # Predicting Australia’s Unemployment using a Support Vector Machine and Vanilla Neural Network
 
-The project was a final Capstone for one of the hardest subject I had completed throughout the MDS course at JCU. For this project students were expected to implement a Vanilla Neural Network (VNN) and compare it to a selected machine learning (ML) algorithm in order to predict unemployment rate from a time series dataset. For this assessment I chose the ML algorithms Random Forest and Support Vector Machine (SVM) with radial kernel to complete the regression task. The following passage is the Abstract of the report in which the full report has been attached as a PFD in this repository. 
+The project was a final Capstone for one of the hardest subject I had completed throughout the MDS course at JCU, Data Mining and Machine Learning (MA5832). For this project students were expected to implement a Vanilla Neural Network (VNN) and compare it to a selected machine learning (ML) algorithm in order to predict unemployment rate from a time series dataset. For this assessment I chose the ML algorithms Random Forest and Support Vector Machine (SVM) with radial kernel to complete the regression task. The following passage is the Abstract of the report in which the full report has been attached as a PFD in this repository. 
 
 ## Abstract
 
